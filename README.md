@@ -34,7 +34,7 @@ Bu proje, sıcaklık verileri ile dondurma satışları arasındaki ilişkiyi an
 
 - En sıcak/soğuk günler ve en çok/az satış yapılan günler hakkında bilgiler.
 
-- Kaydedilen Grafikler (proje dizininize kaydedilir)----------------------
+- Kaydedilen Grafikler (proje dizininize kaydedilir)
 
 - aylik_ortalama.png: Aylık ortalama sıcaklık ve dondurma satışlarını gösteren çubuk grafik.
 
